@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AngularJs**
 
-- 💬 Ask me about **Javascript , Typescript , React**
+- 💬 Ask me about **Javascript , Typescript
 
 - 📫 How to reach me **mishraaaditya297@gmail.com**
 
