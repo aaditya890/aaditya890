@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Aaditya Mishra</h1>
 <h3 align="center">Angular & Cloud Applications Developer</h3>
 
-<img 
+<!-- <img 
   src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338"
   align="right"
   width="420"
-/>
+/> -->
 
 <p align="left">
   <img 
@@ -71,5 +71,5 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditya890&show_icons=true&locale=en&layout=compact" alt="aaditya890" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditya890&show_icons=true&locale=en&layout=compact" alt="aaditya890" /></p> -->
 
