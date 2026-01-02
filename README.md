@@ -71,11 +71,5 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaditya890&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya890&layout=compact&theme=tokyonight" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditya890&show_icons=true&locale=en&layout=compact" alt="aaditya890" /></p>
 
